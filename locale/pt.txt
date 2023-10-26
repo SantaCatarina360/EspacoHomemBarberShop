@@ -3,17 +3,18 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_7AB81319_6308_CAB1_41D7_042B88B32C71.url = https://espacohomemcriciuma.com.br/
-PopupWebFrameBehaviour_4849BFE8_6308_599F_41C9_78FD8730B58D.url = https://espacohomemcriciuma.com.br/
-PopupWebFrameBehaviour_791AC7B3_6338_49F1_41B0_8EE04297DE6F.url = https://espacohomemcriciuma.com.br/
-PopupWebFrameBehaviour_78835DF2_6308_3972_41A9_08AEC4D32357.url = https://g.page/r/CbY-x33-jQtcEBE/review
-PopupWebFrameBehaviour_484D4FEF_6308_5991_41D2_85A569FEF486.url = https://g.page/r/CbY-x33-jQtcEBE/review
-PopupWebFrameBehaviour_789641C8_630B_C99E_41A2_42AFD0EADB62.url = https://maps.app.goo.gl/D7fSA2q3wujzzboZ9
-PopupWebFrameBehaviour_4848EFEA_6308_5993_41A8_55179BEC5CE2.url = https://maps.app.goo.gl/D7fSA2q3wujzzboZ9
-LinkBehaviour_4848BFED_6308_5991_41CC_40ABE1CF7B9B.source = https://wa.me/48991678677
-LinkBehaviour_7907EC51_6308_5EB1_41BE_28A16C3265CD.source = https://wa.me/48991678677
-LinkBehaviour_79700265_6338_4A91_41C8_B3D753C491AF.source = https://www.instagram.com/espacohomemcriciuma/
-LinkBehaviour_48480FEE_6308_5993_41BB_0CDF5D66C889.source = https://www.instagram.com/espacohomemcriciuma/
+PopupWebFrameBehaviour_5B113F54_68CF_98F4_41C2_788E30179C9F.url = https://espacohomemcriciuma.com.br/
+PopupWebFrameBehaviour_5A63650C_6840_A855_41B7_425B7C13CB9C.url = https://espacohomemcriciuma.com.br/
+LinkBehaviour_5B167F53_68CF_98CC_41AC_8C0AEE816EDB.source = https://g.page/r/CbY-x33-jQtcEBE/review
+LinkBehaviour_58935E59_6841_B8FF_41CF_0788BD819662.source = https://g.page/r/CbY-x33-jQtcEBE/review
+LinkBehaviour_5B14CF51_68CF_98CC_41D1_8AE132F5A67A.source = https://maps.app.goo.gl/2mk8WBPMFXJrnoCt8
+LinkBehaviour_5A668F68_6840_98DC_41D7_977895B22DB8.source = https://maps.app.goo.gl/2mk8WBPMFXJrnoCt8
+LinkBehaviour_5B176F4F_68CF_98D4_41CF_5A9D31F48BEB.source = https://wa.me/48991678677
+LinkBehaviour_5A6E699E_6840_7875_41C4_8CF20BBC30E7.source = https://wa.me/48991678677
+LinkBehaviour_5AC86324_6840_A854_418C_E16215CE864D.source = https://www.instagram.com/espacohomemcriciuma/
+LinkBehaviour_5B174F50_68CF_98CC_41C4_06ED74EDD2C3.source = https://www.instagram.com/espacohomemcriciuma/
+LinkBehaviour_5B083F4C_68CF_98D4_418B_743999600417.source = https://www.instagram.com/rankingdigital360/
+LinkBehaviour_682D7BBD_67A4_2AB2_41D9_559A84F45DC0.source = https://www.instagram.com/rankingdigital360/
 
 ## Media
 
@@ -48,30 +49,25 @@ panorama_6EDBB37E_62A9_AD71_41B2_59AF484003DB.label = recepção 2
 ## Skin
 
 ### Button
-Button_7916B7B2_6338_49F3_41D1_2AAECC8CC9F2.label = Agende um Horário
-Button_7520D184_6308_C997_41CA_6C209DF001E4_mobile.label = Agende um Horário
-Button_7520D184_6308_C997_41CA_6C209DF001E4.label = Agende um Horário
-Button_75203184_6308_C997_41BC_6E536F1AB9C5_mobile.label = Instagram
-Button_75203184_6308_C997_41BC_6E536F1AB9C5.label = Instagram
-Button_7520F184_6308_C997_41D4_43737EA5C70A_mobile.label = Localização
-Button_7520F184_6308_C997_41D4_43737EA5C70A.label = Localização
-Button_7520F184_6308_C997_41D4_43737EA5C70A.pressedLabel = Location
-Button_7520F184_6308_C997_41D4_43737EA5C70A_mobile.pressedLabel = Location
-Button_75206185_6308_C991_41CA_016BFC2602C1_mobile.label = Nôs avalie no Google
-Button_75206185_6308_C991_41CA_016BFC2602C1.label = Nôs avalie no Google
-Button_75201184_6308_C997_41D0_7EFD86289462_mobile.label = Whatsapp
-Button_75201184_6308_C997_41D0_7EFD86289462.label = Whatsapp
+Button_475CEB6E_6841_F8D5_41C7_577C68F39953_mobile.label =       MENU
+Button_475CEB6E_6841_F8D5_41C7_577C68F39953.label =       MENU
+Button_475C1B6E_6841_F8D5_41D2_9C5AB4001050_mobile.label = AGENDE UM HORÁRIO
+Button_475C1B6E_6841_F8D5_41D2_9C5AB4001050.label = AGENDE UM HORÁRIO
+Button_475C7B6E_6841_F8D5_41D9_2E8FF98B546D_mobile.label = AVALIAÇÃO GOOGLE
+Button_475C7B6E_6841_F8D5_41D9_2E8FF98B546D.label = AVALIAÇÃO GOOGLE
+Button_475C5B6E_6841_F8D5_41DA_7DFA4C77CB60.label = INSTAGRAM
+Button_475C5B6E_6841_F8D5_41DA_7DFA4C77CB60_mobile.label = INSTAGRAM
+Button_475C6B6E_6841_F8D5_41B3_1222716C052C_mobile.label = LOCALIZAÇÃO
+Button_475C6B6E_6841_F8D5_41B3_1222716C052C.label = LOCALIZAÇÃO
+Button_475C6B6E_6841_F8D5_41B3_1222716C052C_mobile.pressedLabel = Lorem Ipsum
+Button_475C4B6E_6841_F8D5_41D7_91108F0FDAD1.label = WHATSAPP
+Button_475C4B6E_6841_F8D5_41D7_91108F0FDAD1_mobile.label = WHATSAPP
 
 ### Image
+Image_470BD0E1_6841_A9CF_4182_12DADE3836CF_mobile.url = skin/Image_470BD0E1_6841_A9CF_4182_12DADE3836CF_mobile_pt.png
+Image_470BD0E1_6841_A9CF_4182_12DADE3836CF.url = skin/Image_470BD0E1_6841_A9CF_4182_12DADE3836CF_pt.png
 Image_480DF734_6308_CAF6_41D0_D22240FA6725_mobile.url = skin/Image_480DF734_6308_CAF6_41D0_D22240FA6725_mobile_pt.png
 Image_480DF734_6308_CAF6_41D0_D22240FA6725.url = skin/Image_480DF734_6308_CAF6_41D0_D22240FA6725_pt.png
-Image_7789CAFC_630F_DB77_41D1_9455709C6560_mobile.url = skin/Image_7789CAFC_630F_DB77_41D1_9455709C6560_mobile_pt.png
-Image_7789CAFC_630F_DB77_41D1_9455709C6560.url = skin/Image_7789CAFC_630F_DB77_41D1_9455709C6560_pt.png
-
-### Tooltip
-Button_7520D184_6308_C997_41CA_6C209DF001E4.toolTip = aG
-Button_7916B7B2_6338_49F3_41D1_2AAECC8CC9F2.toolTip = aG
-Button_7520D184_6308_C997_41CA_6C209DF001E4_mobile.toolTip = aG
 
 ## Tour
 
