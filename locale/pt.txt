@@ -1,0 +1,81 @@
+#: locale=pt
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_7AB81319_6308_CAB1_41D7_042B88B32C71.url = https://espacohomemcriciuma.com.br/
+PopupWebFrameBehaviour_4849BFE8_6308_599F_41C9_78FD8730B58D.url = https://espacohomemcriciuma.com.br/
+PopupWebFrameBehaviour_791AC7B3_6338_49F1_41B0_8EE04297DE6F.url = https://espacohomemcriciuma.com.br/
+PopupWebFrameBehaviour_78835DF2_6308_3972_41A9_08AEC4D32357.url = https://g.page/r/CbY-x33-jQtcEBE/review
+PopupWebFrameBehaviour_484D4FEF_6308_5991_41D2_85A569FEF486.url = https://g.page/r/CbY-x33-jQtcEBE/review
+PopupWebFrameBehaviour_789641C8_630B_C99E_41A2_42AFD0EADB62.url = https://maps.app.goo.gl/D7fSA2q3wujzzboZ9
+PopupWebFrameBehaviour_4848EFEA_6308_5993_41A8_55179BEC5CE2.url = https://maps.app.goo.gl/D7fSA2q3wujzzboZ9
+LinkBehaviour_4848BFED_6308_5991_41CC_40ABE1CF7B9B.source = https://wa.me/48991678677
+LinkBehaviour_7907EC51_6308_5EB1_41BE_28A16C3265CD.source = https://wa.me/48991678677
+LinkBehaviour_79700265_6338_4A91_41C8_B3D753C491AF.source = https://www.instagram.com/espacohomemcriciuma/
+LinkBehaviour_48480FEE_6308_5993_41BB_0CDF5D66C889.source = https://www.instagram.com/espacohomemcriciuma/
+
+## Media
+
+### Audio
+audiores_440EECB5_6378_5FF1_41D8_7B0AFB8A3291.mp3Url = media/audio_4452633D_6379_CAF1_41C2_FB8BCEBBC9C5_pt.mp3
+audiores_744BD9A8_6308_D99E_41D3_7FA89142CF66.mp3Url = media/audio_72E155E4_62E9_F591_4188_DE499C45CFEF_pt.mp3
+
+### Title
+panorama_765EC1C8_63F9_C99F_41C8_83DD0203A1E4.label = 2
+panorama_70062DE1_6308_3991_41D8_1EACEE77E50E.label = 22
+panorama_6EDB9FB0_62A9_F5F0_41D6_0DD694FB70A6.label = area babearia
+panorama_6EDBAB85_62A9_BD93_41D0_163C7E80B517.label = area babearia 1
+panorama_6EDB3D9F_62A9_D5B0_41B8_884940F298E2.label = area babearia 2
+panorama_6EDB698D_62A9_5D90_41D8_8D50D04ED577.label = area babearia 3
+panorama_6EDB47A5_62A9_7593_41C5_2BB360377C73.label = area babearia 4
+panorama_6EDBD1B8_62A9_EDF1_41C5_75FF70E8B8D2.label = café
+panorama_6EDB25DE_62A9_55B1_41CA_3554A3765F10.label = corredor
+panorama_6EDB0976_62AA_DD70_41CF_9F865209A19D.label = entrada
+panorama_6EC5327B_62AB_6F70_41B1_2B8F735603AC.label = escadaria 1
+panorama_6EDB38ED_62AA_BB90_41D1_3F4A8F7A6270.label = escadaria 2
+panorama_6EC5754C_62AB_EA90_41D8_3A8548A69C30.label = estacionamento
+panorama_6EDACC0C_62AB_BA91_41A4_1D89277A94AA.label = estacionamento 1
+panorama_6F2960BB_62AB_ABF0_41C1_CF869807BEFB.label = frente
+panorama_6EC55092_62AB_6BB1_41B8_94CF3F376705.label = patio
+panorama_6EDB191C_62A9_7AB1_41D3_2E47955134D8.label = patio 1
+panorama_6EC4906C_62AA_EA91_41D5_C4896DD99B60.label = placa
+panorama_6EDB5193_62AA_ADB7_41CB_B13C6FB47711.label = rampa 2
+panorama_6EDB77A9_62A9_5593_41CD_E599C0186E5C.label = recepção
+panorama_6EDBB4E1_62A9_AB93_41D8_82E87065D690.label = recepção 1
+panorama_6EDBB37E_62A9_AD71_41B2_59AF484003DB.label = recepção 2
+
+## Skin
+
+### Button
+Button_7916B7B2_6338_49F3_41D1_2AAECC8CC9F2.label = Agende um Horário
+Button_7520D184_6308_C997_41CA_6C209DF001E4_mobile.label = Agende um Horário
+Button_7520D184_6308_C997_41CA_6C209DF001E4.label = Agende um Horário
+Button_75203184_6308_C997_41BC_6E536F1AB9C5_mobile.label = Instagram
+Button_75203184_6308_C997_41BC_6E536F1AB9C5.label = Instagram
+Button_7520F184_6308_C997_41D4_43737EA5C70A_mobile.label = Localização
+Button_7520F184_6308_C997_41D4_43737EA5C70A.label = Localização
+Button_7520F184_6308_C997_41D4_43737EA5C70A.pressedLabel = Location
+Button_7520F184_6308_C997_41D4_43737EA5C70A_mobile.pressedLabel = Location
+Button_75206185_6308_C991_41CA_016BFC2602C1_mobile.label = Nôs avalie no Google
+Button_75206185_6308_C991_41CA_016BFC2602C1.label = Nôs avalie no Google
+Button_75201184_6308_C997_41D0_7EFD86289462_mobile.label = Whatsapp
+Button_75201184_6308_C997_41D0_7EFD86289462.label = Whatsapp
+
+### Image
+Image_480DF734_6308_CAF6_41D0_D22240FA6725_mobile.url = skin/Image_480DF734_6308_CAF6_41D0_D22240FA6725_mobile_pt.png
+Image_480DF734_6308_CAF6_41D0_D22240FA6725.url = skin/Image_480DF734_6308_CAF6_41D0_D22240FA6725_pt.png
+Image_7789CAFC_630F_DB77_41D1_9455709C6560_mobile.url = skin/Image_7789CAFC_630F_DB77_41D1_9455709C6560_mobile_pt.png
+Image_7789CAFC_630F_DB77_41D1_9455709C6560.url = skin/Image_7789CAFC_630F_DB77_41D1_9455709C6560_pt.png
+
+### Tooltip
+Button_7520D184_6308_C997_41CA_6C209DF001E4.toolTip = aG
+Button_7916B7B2_6338_49F3_41D1_2AAECC8CC9F2.toolTip = aG
+Button_7520D184_6308_C997_41CA_6C209DF001E4_mobile.toolTip = aG
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Espaço Homem Barber Shop
