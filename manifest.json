@@ -1,9 +1,9 @@
 {
  "background_color": "#000000",
- "start_url": "index.html",
+ "theme_color": "#000000",
  "name": "Espaço Homem Barber Shop",
  "display": "fullscreen",
- "theme_color": "#000000",
+ "start_url": "index.html",
  "icons": [
   {
    "type": "image/png",
